@@ -1,0 +1,6 @@
+
+START:
+    mov r1, r2
+    add r3, r4
+
+    stop

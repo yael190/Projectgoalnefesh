@@ -1,0 +1,6 @@
+
+MAIN:
+    prn r1
+    prn r2
+
+    stop
