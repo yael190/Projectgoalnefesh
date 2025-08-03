@@ -82,7 +82,7 @@ char* trim_quotes(char* str) {
 }
 
 /*
-    יוצר עותק חדש של מחרוזת בעזרת הקצאת זיכרון דינמית.
+     בעזרת הקצאת זיכרון דינמית.
     מחזיר NULL אם נכשל.
 */
 char* duplicateString(const char* src) {
