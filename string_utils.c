@@ -54,7 +54,7 @@ char* read_word(char** line) {
 }
 
 /*
-    מסיר רווחים מההתחלה ומהסוף של מחרוזת.
+    .remove spaces 
 */
 char* trim_whitespace(char* str) {
     char* end;
